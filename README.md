@@ -19,7 +19,7 @@ The task includes data preprocessing ,feature scaling ,applying clustering algor
 - Heatmap visualization
 
 ## Project Structure
-
+```
 online-retail-customer-segmentation/
 │── data/
     │──online_retail.xls
@@ -27,6 +27,8 @@ online-retail-customer-segmentation/
     │──Unsupervised learning(Clustering & Profiling).ipynb
 │── README.md
 │── requirements.txt
+```
 Note:
      dataset is not included in this repository due to size constraints. please download it seperately and place it in the 'data/' folder.You can download it from: 
+
               https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
